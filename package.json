@@ -1,0 +1,9 @@
+{
+  "name": "node-oauth2",
+  "version": "1.0.0",
+  "description": "Oauth2 NodeJS",
+  "author": "Vu Duc Dung <ducdung8491@gmail.com>",
+  "dependencies": {
+    "axios": "0.21.0"
+  }
+}
